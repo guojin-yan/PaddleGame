@@ -56,7 +56,7 @@ git clone git@github.com:user_name/PaddleGame.git
 ```
 cd PaddleGame // 切换到项目路径
 git checkout -b mybranch //创建名为mybranch的分支
-git branch //查看已经创建的分支 如图有mybranch和master两个分支
+git branch //查看已经创建的分支 如图有mybranch和main两个分支
 git checkout mybranch // 切换到分支
 ```
 
@@ -75,7 +75,7 @@ git commit -m "日志信息" 文件名 // 将修改的文件提交到本地库
 &emsp;  最后将本地项目代码提交到远程GitHub上
 
 ```
-git push --set-upstream origin mybranch
+git push --set-upstream main mybranch
 ```
 
 &emsp;  进入GitHub项目，切换到mybranch分支，查看是否修改成功。
@@ -85,7 +85,7 @@ git push --set-upstream origin mybranch
 &emsp;  切换到**主分支**，将分支mybranch代码合并到主分支，查看是否可以与主分支合并成功。
 
 ```
-git checkout master // 切换到主分支
+git checkout main // 切换到主分支
 git merge mybranch  // 合并派生分支到主分支
 ```
 
@@ -94,7 +94,7 @@ git merge mybranch  // 合并派生分支到主分支
 ```
 git add .  // 将修改的文件存放到暂存区
 git commit -m "日志信息" // 将修改的文件提交到本地库
-git push origin master // 推送到远程仓库
+git push origin main // 推送到远程仓库
 ```
 
 &emsp;  在GitHub切换到master主分支，查看是否合并成功
