@@ -20,35 +20,41 @@
 
 &emsp;  通过在 GitHub 中单击它来选择更新。`requirements.txt`
 
-<img src='https://github.com/guojin-yan/PaddleGame/blob/main/docs/images/CONTRIBUTING_pr_image1.png' height="2410px" width="1022px">
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image1.png?raw=true' width="1200px">
+
+
 
 #### &emsp;  2. 点击“编辑此文件”
 
 &emsp;  该按钮位于右上角。
 
-
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image2.png?raw=true' width="1200px">
 
 #### &emsp;  3. 进行更改
 
 &emsp;  将版本从``numpy < 1.24``更改为 ``numpy < 1.25``。
 
-
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image3.png?raw=true' width="1200px">
 
 #### &emsp;  4. 预览更改并提交 PR
 
 &emsp;  单击**“Preview**”选项卡以验证更新，然后点击**Commit changes**提交更改，并按照更改内容填写日志。
 
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image4.png?raw=true' width="1200px">
 
-
-
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image5.png?raw=true' width="1200px">
 
 &emsp;  提交更改后，点击 **Create pull request**，创建PR。
 
 
 
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image6.png?raw=true' width="1200px">
+
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image7.png?raw=true' width="1200px">
+
 &emsp;  按要求提交后，会回到下面页面，等待代码厂库管理人员审核并通过你提交的PR。
 
-
+<img src='https://github.com/guojin-yan/PaddleGame/blob/7eea50ca635d67202098c515d2610fc7885fd2c9/docs/images/CONTRIBUTING_pr_image8.png?raw=true' width="1200px">
 
 ### 🔻方式二：本地修改提交
 
