@@ -63,6 +63,8 @@
 #### &emsp;  1. fork开源项目
 
 &emsp;  找到要提交PR的项目，先将该项目fork自己的代码仓。
+<img src='./docs/images/CONTRIBUTING_pr_image10.png?raw=true' width="1200px">
+<img src='./docs/images/CONTRIBUTING_pr_image11.png?raw=true' width="1200px">
 
 #### &emsp;  2. 克隆开源项目
 
@@ -83,8 +85,8 @@ git checkout -b mybranch //创建名为mybranch的分支
 git branch //查看已经创建的分支 如图有mybranch和main两个分支
 git checkout mybranch // 切换到分支
 ```
-
-&emsp;  切换好分支后就可以直接根据自己需求修改项目。
+<img src='./docs/images/CONTRIBUTING_pr_image9.png?raw=true' width="1200px">
+&emsp;  切换好分支后就可以直接根据自己需求修改项目,如上图所示。
 
 #### &emsp;  4. 修改提交项目代码
 
